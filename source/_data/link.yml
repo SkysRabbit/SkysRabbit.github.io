@@ -1,0 +1,7 @@
+- class_name: 網站
+  class_desc: 機器學習
+  link_list:
+    - name: PyTorch
+      link: https://pytorch.org
+      avatar: https://zh.wikipedia.org/zh-tw/PyTorch#/media/File:PyTorch_logo_black.svg
+      descr: 熱門的機器學習函式庫
